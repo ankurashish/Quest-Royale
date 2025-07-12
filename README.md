@@ -1,12 +1,47 @@
-# React + Vite
+# ⚔️ Quest Royale
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fun and interactive React-based quest tracker app styled with Tailwind CSS. Track your daily tasks as heroic quests!
 
-Currently, two official plugins are available:
+![favicon](./favicon.ico)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 📜 Add, edit, and delete quests
+- ✅ Mark quests as completed
+- 🎯 Filter to show completed quests
+- 💾 LocalStorage persistence
+- 🛡️ Clean, responsive UI with Tailwind CSS
+- ⚙️ Custom-styled checkboxes and buttons
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Preview
+
+![App Screenshot](./screenshot.png) <!-- See instructions below to add this -->
+
+## 🛠️ Built With
+
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Vite](https://vitejs.dev/)
+- [UUID](https://www.npmjs.com/package/uuid)
+- [Vercel](https://vercel.com/) for deployment
+
+## 🧪 Installation
+
+```bash
+git clone https://github.com/ankurashish/Quest-Royale.git
+cd quest-royale
+npm install
+npm run dev
+```
+
+## 🌐 Live Demo
+
+👉 [https://quest-royale.vercel.app](https://quest-royale.vercel.app)
+
+## 📄 License
+
+This project is open source and free to use.
+
+---
+
+> ✨ Made with pride & code by [Ankur Ashish](https://github.com/ankurashish)
